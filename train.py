@@ -31,7 +31,7 @@ WEIGHT_DECAY  = 0.01
 OUTPUT_DIR    = "./results"
 WANDB_PROJECT = "mlops-assignment2"
 WANDB_RUN     = "distilbert-run-1"
-HF_REPO       = "nagaananth/distilbert-goodreads-genres"  # update with your HF username
+HF_REPO       = "g25ait2010/distilbert-goodreads-genres"  # update with your HF username
 
 
 def main():
